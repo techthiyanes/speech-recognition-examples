@@ -1,0 +1,19 @@
+numpy==1.17.3
+tqdm==4.58.0
+colorama==0.4.4
+scikit-image==0.18.1
+matplotlib==3.3.4
+levenshtein==0.12.0
+ds_ctcdecoder==0.9.3
+opencv-python==4.5.1.48
+pandas==1.2.2
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.0+cu111
+torchvision==0.9.0+cu111
+torchaudio===0.8.0
+PySoundFile==0.9.0.post1
+torchsummary==1.5.1
+jiwer==2.2.0
+transformers==4.4.2
+pydub==0.25.1
+python-telegram-bot==13.4.1
